@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jkh516/RWorkshop
 BugReports: https://github.com/jkh516/RWorkshop/issues
+RoxygenNote: 6.1.1
